@@ -1,14 +1,14 @@
 {
-    "version":  "1.19.0",
+    "version":  "1.19.1",
     "date":  "2026-10-29",
-    "notes":  "Журнал для отправки разработчику",
+    "notes":  "Поиск ПК в сети работает и сразу после обновления",
     "exe":  {
                 "size":  624291,
-                "sha256":  "97c472ed5673752e54abf9bf1dbbb0aba0acc058ca4d80916b776ab1ccdf1442"
+                "sha256":  "aee41677ca5a458f77d39300b8fb2ed67e41e0b2691c54769690ae32919091c2"
             },
     "apk":  {
-                "size":  758346,
-                "sha256":  "c542e0160cfabd95f8afee49244bedaa1921c9b5eca2d7ffd0ea8ca67a6013bc",
-                "versionCode":  21
+                "size":  758338,
+                "sha256":  "c927d5723e5515022f73334c93f4cea01588e68c4821af43a2e178d551e23e04",
+                "versionCode":  22
             }
 }
