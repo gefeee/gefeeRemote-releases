@@ -1,14 +1,14 @@
 {
-    "version":  "1.18.0",
+    "version":  "1.19.0",
     "date":  "2026-10-29",
-    "notes":  "Обновление через GitHub, уведомления о задачах Claude Code",
+    "notes":  "Журнал для отправки разработчику",
     "exe":  {
-                "size":  620195,
-                "sha256":  "ef5c54e5bc0dd3237d993e7ddc99c616744ba6aee47daa049bcf83e59ddcc7fc"
+                "size":  624291,
+                "sha256":  "97c472ed5673752e54abf9bf1dbbb0aba0acc058ca4d80916b776ab1ccdf1442"
             },
     "apk":  {
-                "size":  753650,
-                "sha256":  "f1ec892961b79ed9b0163d6730aff533fca6b9161d3d29631e57cd27b9d343cc",
-                "versionCode":  20
+                "size":  758346,
+                "sha256":  "c542e0160cfabd95f8afee49244bedaa1921c9b5eca2d7ffd0ea8ca67a6013bc",
+                "versionCode":  21
             }
 }
