@@ -1,14 +1,14 @@
 {
-    "version":  "1.20.8",
+    "version":  "1.20.9",
     "date":  "2026-11-06",
-    "notes":  "Служебные события Claude Code больше не попадают в текст уведомления «Claude работает».",
+    "notes":  "Слежение за окном («Жду ответа на ПК» / «Готово на ПК») отключено: о конце задачи сообщают пуши Claude.",
     "exe":  {
                 "size":  899187,
-                "sha256":  "4c604d6c8eb852b2e55300789e514563e92ec248018cac13a6594f69d6c9bdbd"
+                "sha256":  "f6f260a990ab7a6e264d0687c3cb6e8fd1e841759fb0e6e4c12a4b9fad4969e5"
             },
     "apk":  {
-                "size":  1973552,
-                "sha256":  "8ffbae88a7b459e26fcb9550ededefb8bf563e5f6aa0e73909006ab1608eedc7",
-                "versionCode":  33
+                "size":  1973312,
+                "sha256":  "001914bb99bb5aae8623e5bd239c3f8cc4ffb3675e6dd3dfc98796f191042382",
+                "versionCode":  34
             }
 }
